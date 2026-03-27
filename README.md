@@ -1,6 +1,6 @@
 1.what is the difference between getElementById, getElementsByClassName, and querySelector / querySelectorAll?
 
-getElementById is use to select a single element by its unique ID, so it always return only one element. getElementsByClassName is used to select multiple elements that share the same class name, and it returns a collection of elements. On the other hand, querySelector and querySelectorAll are more flexible because they use CSS selectors. querySelector returns the first matching element, while querySelectorAll returns all matching elements.
+getElementById is use to select a single element by its unique id, so it always return only one element. getElementsByClassName is used to select multiple elements that share the same class name, and it returns a collection of elements. On the other hand, querySelector and querySelectorAll are more flexible because they use CSS selectors. querySelector returns the first matching element, while querySelectorAll returns all matching elements.
 
 2.how do you create and insert a new element into the DOM?
 
